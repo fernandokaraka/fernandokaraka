@@ -3,16 +3,17 @@
 <br>
 Here are some ideas to get you started:
 <br>
-- 🔭 I’m currently working on Front-end Development with Wordpress and Elementor
-- 🌱 I’m currently learning:
+🔭 I’m currently working on Front-end Development with Wordpress and Elementor
+<br>
+🌱 I’m currently learning:
  
 <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
           
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
-- 👯 I’m looking to collaborate on front-end projects
-- <br>
-- 📫 How to reach me:
+👯 I’m looking to collaborate on front-end projects
+<br>
+📫 How to reach me:
 <br>
 <div>
 <a href="https://www.instagram.com/fernandokaraka/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
