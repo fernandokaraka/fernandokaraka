@@ -5,7 +5,7 @@ Here are some ideas to get you started:<br>
 🌱 I’m currently learning:<br>
 <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>       
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>       
-👯 I’m looking to collaborate on front-end projects
+👯 I’m looking to collaborate on front-end projects<br>
 📫 How to reach me:
 <br>
 <div>
